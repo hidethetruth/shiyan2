@@ -11,23 +11,22 @@ xueshengxuanke
 
 
 ## 实验方法
-首先创建主类，然后在后面创建其他类，用作后续在主类中的输出。
-根据需求，应有 people teacher student lesson 几个分类用作后续赋值。
-完善分类中的内容，并在主类中用println输出。
-运行程序，根据是否报错进行调试等。
+1.首先创建主类，然后在后面创建其他类，用作后续在主类中的输出。
+2.根据需求，应有 people teacher student lesson 几个分类用作后续赋值。
+3.完善分类中的内容，并在主类中用println输出。
+4.运行程序，根据是否报错进行调试等。
 
 
 ## 实验过程
-首先新建文件，并在其下创建五个class，分别为 shiyan2 people student teacher lesson。
-将shiyan2作为主类。
-根据需求，在people中创建变量name age number sex，并用this进行赋值
-         在student中创建变量name age number，用super进行引用
-         在teacher中创建变量name number sex，用suoer进行引用
-         在lesson中创建变量name time number place，用this进行赋值
-在主类中运用println进行其余类的信息输出
-检查是否有误，运行
-根据运行结果调试
-运行成功
+1.首先新建文件，并在其下创建五个class，分别为 shiyan2 people student teacher lesson。
+2.将shiyan2作为主类。
+3.根据需求，在people中创建变量name age number sex，并用this进行赋值
+           在student中创建变量name age number，用super进行引用
+           在teacher中创建变量name number sex，用suoer进行引用
+           在lesson中创建变量name time number place，用this进行赋值
+4.在主类中运用println进行其余类的信息输出
+5.检查是否有误，运行
+6.根据运行结果调试
 
 
 ## 核心方法
