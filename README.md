@@ -18,15 +18,21 @@ xueshengxuanke
 
 
 ## 实验过程
-1.首先新建文件，并在其下创建五个class，分别为 shiyan2 people student teacher lesson。
-2.将shiyan2作为主类。
-3.根据需求，在people中创建变量name age number sex，并用this进行赋值
+首先新建文件，并在其下创建五个class，分别为 shiyan2 people student teacher lesson。
+
+将shiyan2作为主类。
+
+
+根据需求，在people中创建变量name age number sex，并用this进行赋值
            在student中创建变量name age number，用super进行引用
            在teacher中创建变量name number sex，用suoer进行引用
            在lesson中创建变量name time number place，用this进行赋值
-4.在主类中运用println进行其余类的信息输出
-5.检查是否有误，运行
-6.根据运行结果调试
+
+在主类中运用println进行其余类的信息输出
+
+检查是否有误，运行
+
+根据运行结果调试
 
 
 ## 核心方法
